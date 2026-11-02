@@ -30,7 +30,6 @@ Each service uses `replace github.com/openpak/nx-common => ../nx-common` and com
 ## Docs
 
 - [Protocol](docs/protocol.md)
-- [Evidence](docs/evidence.md)
 - [Deploy](docs/deploy.md)
 - [Notes](docs/notes.md)
 
