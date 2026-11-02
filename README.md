@@ -31,7 +31,6 @@ Each service uses `replace github.com/openpak/nx-common => ../nx-common` and com
 
 - [Protocol](docs/protocol.md)
 - [Deploy](docs/deploy.md)
-- [Notes](docs/notes.md)
 
 ## Licence
 
