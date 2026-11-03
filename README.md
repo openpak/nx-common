@@ -16,6 +16,7 @@ OpenPak's Switch Common Library.
 | `nxtls` | TLS termination: fixed multi-SAN cert and on-demand certs from the OpenPak CA |
 | `nxjwt` | RS256 sign/verify with the BAAS key, key loading, id helpers |
 | `nxhttp` | JSON reply, host helper, full-request dump, 421 for a foreign host |
+| `httplog` | one access line per request (`http <method> <host> <path> -> <status> <ms>`), never the query; Flusher/Hijacker/Pusher kept |
 | `internalkey` | `X-Internal-Key` check (strict and lenient) and a guard |
 | `nxapi` | Internal identity/penne contract (types, paths) and its client |
 
